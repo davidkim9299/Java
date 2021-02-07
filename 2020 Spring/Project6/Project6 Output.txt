@@ -1,0 +1,19 @@
+DONGRYUL KIM's 6th assignment
+
+
+Here is the original array
+3.50    5.20    -3.60   -15.30  9.35    
+7.00    -14.20  8.50    11.30   9.30    
+5.40    34.20   -28.14  
+
+Here is the average of the original Array
+Average : 2.50    
+
+Here is the new array
+1.00    2.70    -6.10   -17.80  6.85    
+4.50    -16.70  6.00    8.80    6.80    
+2.90    31.70   -30.64  
+
+The furthest value from the average is 34.2 and 31.70 far from average
+
+The closest value from the average is 3.5 and 1.00  far from average
