@@ -1,0 +1,35 @@
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| java               |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+7 rows in set (0.02 sec)
+
+mysql> use java;
+Database changed
+mysql> show tables;
++----------------+
+| Tables_in_java |
++----------------+
+| name           |
++----------------+
+1 row in set (0.01 sec)
+
+mysql> select * from name;
++----+------+
+| id | name |
++----+------+
+|  1 | KIM  |
+|  2 | PARK |
+|  3 | CHOI |
+|  4 | LEE  |
+|  5 | KANG |
++----+------+
+5 rows in set (0.01 sec)
