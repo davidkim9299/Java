@@ -1,0 +1,26 @@
+-----------------------------------------
+X = -3.0    Y =  2.20,  Y IS POSITIVE
+X = -2.5    Y =  3.33,  Y IS POSITIVE
+X = -2.0    Y =  3.38,  Y IS POSITIVE
+X = -1.5    Y =  2.29,  Y IS POSITIVE
+X = -1.0    Y =  0.00,  Y IS ZERO
+X = -0.5    Y = -3.60,  Y IS NEGATIVE
+X =  0.0    Y = -8.75,  Y IS NEGATIVE
+X =  0.5    Y =-16.00,  Y IS NEGATIVE
+X =  1.0    Y =-27.00,  Y IS NEGATIVE
+X =  1.5    Y =-50.00,  Y IS NEGATIVE
+X =  2.0    Y =-16.50,  Y IS NEGATIVE
+X =  2.5    Y =  0.00,  Y IS ZERO
+X =  3.0    Y = 13.00,  Y IS POSITIVE
+This program is completed
+-----------------------------------------
+For extra credit question
+
+1.
+The closest y value is 2.2 when x is -3.0
+
+2.
+Number of positive : 5
+Number of negative : 6
+Number of zero : 2
+

@@ -1,0 +1,42 @@
+Enter the number of Athletes
+6
+Enter (ID #judges scores) of Athlete 1
+2365 7 8.8 7.4 6.3 7.1 5.6 7.3 6.4 
+ID		#judge		Scores
+2365		7		5.6 6.3 6.4 7.1 7.3 7.4 8.8 
+Average score : 6.90            Highest score : 8.80     
+ 
+Enter (ID #judges scores) of Athlete 2
+2345 6 8.9 8.9 4.5 4.5 6.7 9.2
+ID		#judge		Scores
+2345		6		4.5 4.5 6.7 8.9 8.9 9.2 
+Average score : 7.25            Highest score : 9.20     
+ 
+Enter (ID #judges scores) of Athlete 3
+4356 8 8.8 8.8 5.7 8.9 9.4 2.3 6.7 5.9 
+ID		#judge		Scores
+4356		8		2.3 5.7 5.9 6.7 8.8 8.8 8.9 9.4 
+Average score : 7.47            Highest score : 9.40     
+ 
+Enter (ID #judges scores) of Athlete 4
+7865 5 7.8 5.3 2.3 6.9 9.8
+ID		#judge		Scores
+7865		5		2.3 5.3 6.9 7.8 9.8 
+Average score : 6.67            Highest score : 9.80     
+ 
+Enter (ID #judges scores) of Athlete 5
+2319 8 8.8 8.8 8.8 6.4 8.8 8.8 8.8 9.4
+ID		#judge		Scores
+2319		8		6.4 8.8 8.8 8.8 8.8 8.8 8.8 9.4 
+Average score : 8.80            Highest score : 9.40     
+ 
+Enter (ID #judges scores) of Athlete 6
+4508 7 8.9 9.4 2.3 5.6 3.4 9.9 9.8
+ID		#judge		Scores
+4508		7		2.3 3.4 5.6 8.9 9.4 9.8 9.9 
+Average score : 7.42            Highest score : 9.90     
+ 
+//////////////////////////////////////////
+##The highest average score is [8.80] from athlete [2319] 
+**Optional Question**
+Single highest score is [9.9] from athlete [4508]

@@ -1,0 +1,176 @@
+DONGRYUL KIM’s 2nd assignment
+Format (####/##/##)
+Enter the name and record of team 1
+Chile/25/00
+Enter the name and record of team 2
+China/10/05
+Enter the name and record of team 3
+Egypt/04/12
+Enter the name and record of team 4
+Ghana/13/12
+Enter the name and record of team 5
+India/05/10
+Enter the name and record of team 6
+Italy/12/14
+Wrong input. try again
+Enter the name and record of team 6
+Italy/12/04
+Enter the name and record of team 7
+Japan/00/25
+Enter the name and record of team 8
+Qatar/08/17
+Enter the name and record of team 9
+Spain/12/13
+Enter the name and record of team 10
+Korea/12/12
+
+
+Team Chile Record
+NAME    WIN  lost 
+Chile   25   0    
+Total number of game played is 25, and 0 games remaining
+The winning average is 1.0000
+Number of games remaining is not greater than or number of won
+Number of games ramaining is greater than or equal to number of lost
+
+
+Team China Record
+NAME    WIN  lost 
+China   10   5    
+Total number of game played is 15, and 10 games remaining
+The winning average is 0.6667
+Number of games remaining is greater than or equal to number won
+Number of games ramaining is greater than or equal to number of lost
+
+
+Team Egypt Record
+NAME    WIN  lost 
+Egypt   4    12   
+Total number of game played is 16, and 9 games remaining
+The winning average is 0.2500
+Number of games remaining is greater than or equal to number won
+Number of games remaining is not greater than number lost
+
+
+Team Ghana Record
+NAME    WIN  lost 
+Ghana   13   12   
+Total number of game played is 25, and 0 games remaining
+The winning average is 0.5200
+Number of games remaining is not greater than or number of won
+Number of games remaining is not greater than number lost
+
+
+Team India Record
+NAME    WIN  lost 
+India   5    10   
+Total number of game played is 15, and 10 games remaining
+The winning average is 0.3333
+Number of games remaining is greater than or equal to number won
+Number of games ramaining is greater than or equal to number of lost
+
+
+Team Italy Record
+NAME    WIN  lost 
+Italy   12   4    
+Total number of game played is 16, and 9 games remaining
+The winning average is 0.7500
+Number of games remaining is not greater than or number of won
+Number of games ramaining is greater than or equal to number of lost
+
+
+Team Japan Record
+NAME    WIN  lost 
+Japan   0    25   
+Total number of game played is 25, and 0 games remaining
+The winning average is 0.0000
+Number of games remaining is greater than or equal to number won
+Number of games remaining is not greater than number lost
+
+
+Team Qatar Record
+NAME    WIN  lost 
+Qatar   8    17   
+Total number of game played is 25, and 0 games remaining
+The winning average is 0.3200
+Number of games remaining is not greater than or number of won
+Number of games remaining is not greater than number lost
+
+
+Team Spain Record
+NAME    WIN  lost 
+Spain   12   13   
+Total number of game played is 25, and 0 games remaining
+The winning average is 0.4800
+Number of games remaining is not greater than or number of won
+Number of games remaining is not greater than number lost
+
+
+Team Korea Record
+NAME    WIN  lost 
+Korea   12   12   
+Total number of game played is 24, and 1 games remaining
+The winning average is 0.5000
+Number of games remaining is not greater than or number of won
+Number of games remaining is not greater than number lost
+
+
+###Optional questions###
+
+wins all of the remaining games-------------------
+if team China wins all of the remaining games
+Team China Record is going to be
+NAME    WIN  lost 
+China   20   5    The winning average is 0.8000
+
+if team Egypt wins all of the remaining games
+Team Egypt Record is going to be
+NAME    WIN  lost 
+Egypt   13   12   The winning average is 0.5200
+
+if team India wins all of the remaining games
+Team India Record is going to be
+NAME    WIN  lost 
+India   15   10   The winning average is 0.6000
+
+if team Italy wins all of the remaining games
+Team Italy Record is going to be
+NAME    WIN  lost 
+Italy   21   4    The winning average is 0.8400
+
+if team Korea wins all of the remaining games
+Team Korea Record is going to be
+NAME    WIN  lost 
+Korea   13   12   The winning average is 0.5200
+
+
+loses all of the remaining games------------------
+if team China loses all of the remaining games
+Team China Record is going to be
+NAME    WIN  lost 
+China   10   15   The winning average is 0.4000
+
+if team Egypt loses all of the remaining games
+Team Egypt Record is going to be
+NAME    WIN  lost 
+Egypt   4    21   The winning average is 0.1600
+
+if team India loses all of the remaining games
+Team India Record is going to be
+NAME    WIN  lost 
+India   5    20   The winning average is 0.2000
+
+if team Italy loses all of the remaining games
+Team Italy Record is going to be
+NAME    WIN  lost 
+Italy   12   13   The winning average is 0.4800
+
+if team Korea loses all of the remaining games
+Team Korea Record is going to be
+NAME    WIN  lost 
+Korea   12   13   The winning average is 0.4800
+
+
+Best winning average----------------------------
+Chile
+The best average is  1.0000 from team  Chile
