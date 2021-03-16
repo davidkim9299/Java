@@ -1,0 +1,88 @@
+### Map result: 1
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 1
+
+Enter a pid you want to allocate (300-5000): 427
+Allocated pid: 427
+
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 1
+
+Enter a pid you want to allocate (300-5000): 828
+Allocated pid: 828
+
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 1
+
+Enter a pid you want to allocate (300-5000): 4237
+Allocated pid: 4237
+
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 3
+
+Allcoted pids: 427 828 4237 
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 2
+
+Enter a pid you want to release: 828
+pid 828 released
+
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 3
+
+Allcoted pids: 427 4237 
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 1
+
+Enter a pid you want to allocate (300-5000): 427
+The pid you entered is already allocated. code: -1
+
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 1
+
+Enter a pid you want to allocate (300-5000): 828
+Allocated pid: 828
+
+Continue? (yse/no): yes
+
+Enter 1 to allocate pid
+Enter 2 to release pid
+Enter 3 to see all allocated pids
+Enter: 3
+
+Allcoted pids: 427 828 4237 
+Continue? (yse/no): we
+Wrong input. Try again
+
+Continue? (yse/no): no
