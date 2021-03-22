@@ -1,0 +1,254 @@
+Phone Book Contact List
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : kim
+Enter First Name : dongryul
+Enter Phone Number (number only) : 7189024594
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : cristiano
+Enter First Name : ronaldo
+Enter Phone Number (number only) : 1985020534
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : lionel
+Enter First Name : messi
+Enter Phone Number (number only) : 1987062431
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : zlatan
+Enter First Name : ibrahimovic
+Enter Phone Number (number only) : 1981100337
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : thomas
+Enter First Name : muller
+Enter Phone Number (number only) : 1989091329
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : son
+Enter First Name : heung-min
+Enter Phone Number (number only) : 1992070826
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  different key
+Please enter valid code
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  ser
+
+Enter Last Name : kim
+kim is in original list of 1
+kim is in sorted list of 2
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  del
+Enter Phone Number (number only) : 7189024594
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  dsp
+Contact List
+Last Name       First Name      Phone number        
+--------------  --------------  -------------
+CRISTIANO       RONALDO         1985020534          
+LIONEL          MESSI           1987062431          
+ZLATAN          IBRAHIMOVIC     1981100337          
+THOMAS          MULLER          1989091329          
+SON             HEUNG-MIN       1992070826          
+ 
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  sor
+Contact List
+Last Name       First Name      Phone number        
+--------------  --------------  -------------
+CRISTIANO       RONALDO         1985020534          
+LIONEL          MESSI           1987062431          
+SON             HEUNG-MIN       1992070826          
+THOMAS          MULLER          1989091329          
+ZLATAN          IBRAHIMOVIC     1981100337          
+ 
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  add
+
+Enter Last Name : kim
+Enter First Name : dongryul
+Enter Phone Number (number only) : 7189024594
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  dsp
+Contact List
+Last Name       First Name      Phone number        
+--------------  --------------  -------------
+CRISTIANO       RONALDO         1985020534          
+LIONEL          MESSI           1987062431          
+ZLATAN          IBRAHIMOVIC     1981100337          
+THOMAS          MULLER          1989091329          
+SON             HEUNG-MIN       1992070826          
+KIM             DONGRYUL        7189024594          
+ 
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  sor
+Contact List
+Last Name       First Name      Phone number        
+--------------  --------------  -------------
+CRISTIANO       RONALDO         1985020534          
+KIM             DONGRYUL        7189024594          
+LIONEL          MESSI           1987062431          
+SON             HEUNG-MIN       1992070826          
+THOMAS          MULLER          1989091329          
+ZLATAN          IBRAHIMOVIC     1981100337          
+ 
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  del
+Enter Phone Number (number only) : 7189024594
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  dsp
+Contact List
+Last Name       First Name      Phone number        
+--------------  --------------  -------------
+CRISTIANO       RONALDO         1985020534          
+LIONEL          MESSI           1987062431          
+ZLATAN          IBRAHIMOVIC     1981100337          
+THOMAS          MULLER          1989091329          
+SON             HEUNG-MIN       1992070826          
+ 
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  sor
+Contact List
+Last Name       First Name      Phone number        
+--------------  --------------  -------------
+CRISTIANO       RONALDO         1985020534          
+LIONEL          MESSI           1987062431          
+SON             HEUNG-MIN       1992070826          
+THOMAS          MULLER          1989091329          
+ZLATAN          IBRAHIMOVIC     1981100337          
+ 
+Continue? (y/n) : y
+ 
+Enter 'ADD' to add contact         
+Enter 'SER' to search contact      
+Enter 'DEL' to delete contact      
+Enter 'DSP' to display contact list
+Enter 'SOR' to display sorted contact list
+Enter ' E ' to end program         
+Code :  e
+Bye
