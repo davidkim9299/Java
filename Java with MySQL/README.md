@@ -1,1 +1,3 @@
-Make SQL query table using java
+# Java w/ MySQL
+
+Control MySQL database using Java
